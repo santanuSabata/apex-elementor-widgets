@@ -167,7 +167,7 @@ WordPress and Elementor licensing requirements.
 ---
 
 ## Suggested GitHub Repo Structure
-```
+
 yourname/
 ├── apex-wp-theme/          ← one repo
 │   ├── README.md
